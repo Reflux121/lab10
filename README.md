@@ -16,6 +16,10 @@
 
 ![Screenshot_5](https://github.com/Reflux121/lab10/assets/106038964/74a4cdd8-55b2-4cdc-bcdd-124c0f6abe8e)
 
+![Screenshot_8](https://github.com/Reflux121/lab10/assets/106038964/9f43c655-0e76-475d-aab6-1ab9b51faaa4)
+
+![Screenshot_9](https://github.com/Reflux121/lab10/assets/106038964/7e76911e-8f1d-447d-ab29-4292a7e58fc9)
+
 ![Screenshot_6](https://github.com/Reflux121/lab10/assets/106038964/c57a1987-51ad-47a7-94f0-6add0a4ef9fc)
 
 ## Sprawdzenie uprawnienia read-only
